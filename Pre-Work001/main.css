@@ -1,0 +1,105 @@
+.gardeningStories {
+    width: 800;
+}
+
+
+input{
+   
+    background-color: light pink;
+    padding: 5px;
+    color: black;
+
+}
+
+
+
+.Narrative {
+    width: 50%;
+    height: auto;
+    padding: 0% 0% 1% 5%;
+
+}
+
+h2 {
+    padding: 2% 0% 0% 10%;
+    color:white;
+   
+}
+h3 {
+    padding: 10%
+}
+
+
+    
+
+nav {
+    
+    padding: 0% 0% 1% 50%;
+    position:fixed;
+    float: right;
+   
+   
+}
+input[type=button] { 
+     background: #0066A2;
+     color: white; 
+     border-style: outset; 
+     border-color: #0066A2; 
+     height: 50px; 
+     width: 100px; 
+     font: bold 15px arial,sans-serif; 
+     
+    } 
+input[type=button]:hover {
+    background: gold;
+    color: white; 
+    border-style: outset; 
+    border-color: #0066A2; 
+    height: 50px; 
+    width: 100px; 
+    font: bold 15px arial,sans-serif; 
+}
+
+form{
+    padding: 2%, 25%, 0%, 5%;
+    margin: 5%;
+    background-color: green;
+    font-style: italic;
+    border-style: solid;
+    font-weight: 900px;
+    width: 500px;
+    float: left;
+
+}
+
+.insideForm {
+    padding: 5%;
+}
+
+
+#video {
+    padding: 5%;
+    float: right;
+    margin-right: 20%;
+}
+body {
+    background: rgba(83, 83, 235, 0.336);
+    font-size:150%;
+    color: white;
+}
+.gardeningStories {
+    width: 800;
+}
+
+.firstStory{
+    position:relative;
+    padding: 5%;
+
+}
+.interestingThings{
+    display:list-item;
+}
+.aboutMe{
+    display: table-caption;
+    width: 500px;
+}
